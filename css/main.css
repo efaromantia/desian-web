@@ -34,15 +34,18 @@ body,html{
 .section2{
     background: ivory;
     padding:100px 0px;
+    text-align: justify
 }
 .section3{
     background: beige;
     padding:100px 0px;
+    text-align: justify
 }
 section4{
     background: ivory;
     padding:200px 0px;
     margin: center;
+    text-align: center
 }
 .col-warna{
     background: peachpuff;
