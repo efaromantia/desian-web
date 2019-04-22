@@ -1,43 +1,52 @@
 body,html{
     height: 100%;
-    margin:0 auto;
+    margin: center;
 }  
 .link{
-    color: indianred;
-    padding: 10px 10px;
+    color: black;
+    padding: 8px 8px;
+    font-family: impact; 
 }
 .link:hover{
     background: tan;
 }
 .section1{
-    background: url(../img/maxresdefault.jpg);
+    background: url(../img/1.jpg);
     width: 100%;
     height: 100%;
-    text-align: center
+    text-align: center;
+    margin: center;
 }
 .judul{
-    font-family: bebas;
-    font-size: 60px;
+    font-family: anna;
+    font-size: 70px;
     color: black;
-    margin: auto;
+    margin: center;
+    text-align: center;
+    padding-top: 7%
 }
 .sub-judul{
-    font-family: century gothic;
-    font-size: 50px;
+    font-family: anna;
+    font-size: 30px;
     color: black;
     margin: auto;
 }
 .section2{
-    background: goldenrod;
+    background: ivory;
     padding:100px 0px;
 }
 .section3{
-    background: rosybrown;
+    background: beige;
     padding:100px 0px;
 }
-.col-warna{
-    background: skyblue;
+section4{
+    background: ivory;
+    padding:200px 0px;
+    margin: center;
 }
-.col-warna2{
-    background: tan;
+.col-warna{
+    background: peachpuff;
+    font-family: anna;
+    font-size: 35px;
+    color: black;
 }
